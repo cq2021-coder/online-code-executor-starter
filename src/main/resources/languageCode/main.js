@@ -1,0 +1,1 @@
+console.log("Hello, JavaScript!我是程崎");
